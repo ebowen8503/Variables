@@ -1,0 +1,9 @@
+\\mac\home\documents\visual studio 2015\Projects\ProjectTIYFallbackend\ProjectTIYFallbackend\bin\Debug\ProjectTIYFallbackend.exe.config
+\\mac\home\documents\visual studio 2015\Projects\ProjectTIYFallbackend\ProjectTIYFallbackend\obj\Debug\ProjectTIYFallbackend.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\ProjectTIYFallbackend\ProjectTIYFallbackend\bin\Debug\ProjectTIYFallbackend.exe
+\\mac\home\documents\visual studio 2015\Projects\ProjectTIYFallbackend\ProjectTIYFallbackend\bin\Debug\ProjectTIYFallbackend.pdb
+\\mac\home\documents\visual studio 2015\Projects\ProjectTIYFallbackend\ProjectTIYFallbackend\obj\Debug\ProjectTIYFallbackend.exe
+\\mac\home\documents\visual studio 2015\Projects\ProjectTIYFallbackend\ProjectTIYFallbackend\obj\Debug\ProjectTIYFallbackend.pdb
+\\Mac\Home\Downloads\Projects\ProjectTIYFallbackend\ProjectTIYFallbackend\bin\Debug\ProjectTIYFallbackend.exe.config
+\\Mac\Home\Downloads\Projects\ProjectTIYFallbackend\ProjectTIYFallbackend\obj\Debug\ProjectTIYFallbackend.exe
+\\Mac\Home\Downloads\Projects\ProjectTIYFallbackend\ProjectTIYFallbackend\obj\Debug\ProjectTIYFallbackend.pdb
